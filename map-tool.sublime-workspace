@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lis",
+				"listItems"
+			],
+			[
+				"_wid",
+				"_widgetWrapper"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"widgetWrapper"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"_date",
+				"_dateRange"
+			],
+			[
+				"_curr",
+				"_currData"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack/webpack.dev.config.js",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "containers/App.js",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "containers/views/outer-view.js",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#outerView: {\n	height: '100%';\n}\n\n#tokensHolder: {\n	color: 'blue';\n}\n\n#mapHolder: {\n\n}\n\n#controlsHolder: {\n\n}",
+			"file": "containers/styles.less",
+			"file_size": 124,
+			"file_write_time": 131545203925716163,
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/projects/map-tool/map-tool.sublime-project",
+		"/C/projects/map-tool/map-tool.sublime-workspace",
+		"/C/projects/map-tool/containers/styles/styles.less",
+		"/C/projects/map-tool/containers/styles/styles.js",
+		"/C/Users/johnc/Desktop/sword practise pairs/index.htm",
+		"/C/Users/johnc/Desktop/sword practise pairs/_js/brute.js",
+		"/C/Users/johnc/Desktop/sword practise pairs/_js/core.js",
+		"/C/Users/johnc/Desktop/sword practise pairs/_js/data.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/js/modules/demo-header.js",
+		"/C/Users/johnc/Downloads/Run.Lola.Run.1998.720p.x264.YIFY.srt",
+		"/C/Users/johnc/Downloads/Test 1.kmz",
+		"/C/Users/johnc/Downloads/Test 1.kml",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/index.js",
+		"/C/Users/johnc/Desktop/parliament/Parliment website/Parliment website Rip/www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110323/text/110323w0003.html.tmp",
+		"/C/Users/johnc/Desktop/parliament/Parliment website/Parliment website Rip/www.publications.parliament.uk/pa/cm201011/cmhansrd/cm101021/text/101021w0001.html.tmp",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-templates/views/layout.html",
+		"/C/projects/dewarrene-site-v2/src/public/css/templates/_index.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/css/site.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/css/components/header.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/css/components/subnav.less",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-assets/public/js/vendor/jquery-ui.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/views/lockedItemButtons.html",
+		"/C/projects/dewarrene-site-v2/.gitignore",
+		"/C/projects/dewarrene-site-v2/src/app.js",
+		"/C/projects/dewarrene-site-v2/src/package.json",
+		"/C/projects/dewarrene-site-v2/src/nodemon.json",
+		"/C/Users/johnc/Desktop/timeline-backup/.gitignore",
+		"/C/projects/gem-shop-front/learning/lesson2/_css/global.css",
+		"/C/projects/gem-shop-front/learning/lesson2/_js/global.js",
+		"/C/projects/gem-shop-front/learning/lesson2/index.htm",
+		"/C/projects/gem-shop-front/learning/lesson1/_js/global.js",
+		"/C/projects/gem-shop-front/learning/lesson1/index.htm",
+		"/C/projects/carboncastle.co.uk/index.htm",
+		"/C/projects/carboncastle.co.uk/_css/less/global.less",
+		"/C/projects/carboncastle.co.uk/_css/global.css",
+		"/C/Users/johnc/Documents/DemolitionInc/76561198055216635/JC.xml",
+		"/C/Users/johnc/Documents/DemolitionInc/76561198055216635/profiles.xml",
+		"/C/Users/johnc/Documents/DemolitionInc/76561198055216635/options.xml",
+		"/C/projects/carboncastle.co.uk/_css/less/mixins.less",
+		"/C/projects/carboncastle.co.uk/_css/less/background_patterns.less",
+		"/C/projects/carboncastle.co.uk/_css/less/master_includes.less",
+		"/C/projects/carboncastle.co.uk/_css/less/colours.less",
+		"/C/projects/carboncastle.co.uk/_css/less/fonts.less",
+		"/C/projects/carboncastle.co.uk/_css/less/master.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/overview.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/detail.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/detail.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/timeline.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/overview.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/timeline.js",
+		"/C/Users/johnc/Downloads/xwzpe3b9.php",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/period-buttons.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/3rd-party/pips-jquery-ui.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/3rd-party/pipsJqueryUI.js",
+		"/C/projects/dewarrene-site-v2/src/public/css/master-anon-cixkii1y700004wudcvvqksft.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/widget.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/arrows.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/arrows.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/topstrap.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/views/widgetBase.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-search/index.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/views/legends.html",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-utils/lib/helpers.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-module/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-widgets/public/js/editor.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/lib-reference/jquery-ui-1.11.4.custom/jquery-ui.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/lib-reference/jquery-ui-1.11.4.custom/jquery-ui.css",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/3rd-party/jquery-ui-slider-pips.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/views/widget.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/views/widgetEditor.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/always.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/help.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/jqueryJoyride.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pipsJqueryUI.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/jquery-ui-slider-pips.js",
+		"/C/projects/dewarrene-site-v2/src/scripts/sync-down-from-master",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/public/js/beforeCkeditor.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/lib/helpers.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/joyride-2-1.less",
+		"/C/projects/dewarrene-site-v2/src/.gitignore",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.js",
+		"/C/projects/dewarrene-site-v2/src/public/css/typography/typography.less",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips-jquery-ui.min.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.min.js",
+		"/C/projects/dewarrene-site-v2/src/public/modules/apostrophe-images/js/editor-modal.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-assets/public/css/vendor/jquery-ui.less",
+		"/C/projects/dewarrene-site-v2/src/public/modules/apostrophe-assets/js/vendor/jquery-ui.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.css",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-pieces/public/js/editor-modal.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/index.html",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/views/editorModal.html",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/public/js/editor.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/chooser.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/editor-modal.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/manager-modal.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/relationship-editor.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/user.js",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/jquery-ui-slider-pips.min.css",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/css/typography/typography.less",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widgetBase.html",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-pieces-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widgetEditor.html",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widget.html",
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/.gitignore",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-any-page-manager/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-admin-bar/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-assets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-attachments/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-browser-utils/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-caches/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-custom-pages/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-db/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-doc-type-manager/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-docs/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-express/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-files/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-files-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-global/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-groups/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-html-widgets/index.js",
+		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-i18n/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\projects\\dewarrene-site-v2\\src\\lib",
+			"C:\\projects\\dewarrene-site-v2\\src\\lib\\modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"C:\\DeWarenne-drive\\DeWarenne\\",
+			"_adjustDetailWidth",
+			"timeline-detail",
+			"year",
+			"render",
+			"buttons",
+			"timelineGuideID",
+			".top",
+			"self.pushAsset",
+			"slider",
+			"http://jqueryui.com",
+			"date",
+			"find",
+			"list",
+			"async",
+			"list",
+			".list",
+			"background-ima",
+			"ima",
+			"png",
+			"pushed",
+			"assetTypes",
+			"\\\n        ",
+			"authorizeTask",
+			"png",
+			"upload",
+			"file",
+			"false",
+			"MarkdownFile",
+			"save(",
+			"save",
+			".yaml",
+			"\"C:\\xampp\\htdocs\\grav-master\\user\\pages\\03.about_us\\",
+			"src=\"",
+			"tilePairWrapperC",
+			"monsterTileC arkhamCoreC",
+			"\"\ntilePairWrapperC dunwichHorrorC\"",
+			"\ntilePairWrapperC dunwichHorrorC",
+			"tilePairWrapperC",
+			" dunwichHorrorC",
+			"monsterTileC",
+			"			<img class=\"monsterTileC\"",
+			"Back.png\" alt=\"\" />",
+			".png\"",
+			"\"C:\\Users\\johnc\\Desktop\\Arkham Horror Monster rip\\manual\\dunwich\\",
+			"Back.png\" alt=\"\" />",
+			"<img src=",
+			".png\"",
+			"\"C:\\Users\\johnc\\Desktop\\Arkham Horror Monster rip\\manual\\arkham core\\",
+			".png\"",
+			"\"C:\\Users\\johnc\\Desktop\\Arkham Horror Monster rip\\manual\\arkham core\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"",
+			"src=\"dunwich/",
+			"src=\"arkham_core/",
+			"tilePairWrapperC arkhamCoreC",
+			"monsterTileC",
+			"\"tilePairWrapperC dunwichHorrorC\"",
+			"tilePairWrapperC dunwichHorrorC",
+			"\ntilePairWrapperC dunwichHorrorC",
+			"",
+			"monsterTileC arkhamCoreC",
+			"monsterTileC dunwichHorrorC",
+			"monsterTileC kingInYellowC",
+			"		<img class=\"monsterTileC\"",
+			"Back.png\" alt=\"\" />\n	</div>\n	<div class=\"tilePairWrapperC\">",
+			".png\" alt=\"\" />",
+			"<img class=\"monsterTileC\" src=\"",
+			"Back.png\" alt=\"\" />\n</div>\n<div class=\"tilePairWrapperC\">",
+			"<img class=\"monsterTileC\" src=",
+			".png\" alt=\"\" />",
+			"@\n.png\" alt=\"\"/>",
+			"<img src=\"",
+			".png",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack/webpack.dev.config.js",
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "containers/App.js",
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "containers/views/outer-view.js",
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "containers/styles.less",
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug":
+	{
+		"height": 256.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
