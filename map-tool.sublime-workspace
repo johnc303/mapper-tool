@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"te",
+				"text-align"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"toek",
+				"token-group"
+			],
+			[
+				"Con",
+				"ControlsView"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
 				"fon",
 				"font-style"
 			],
@@ -72,81 +92,70 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "react-files/views/controls.js",
 			"settings":
 			{
-				"buffer_size": 1382,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "webpack/webpack.dev.config.js",
-			"settings":
-			{
-				"buffer_size": 769,
+				"buffer_size": 454,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "react-files/controllers/scale-wrapper.js",
 			"settings":
 			{
-				"buffer_size": 213,
+				"buffer_size": 259,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.js",
+			"file": "react-files/views/scale-wrapper.js",
 			"settings":
 			{
-				"buffer_size": 168,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "containers/App.js",
-			"settings":
-			{
-				"buffer_size": 237,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "containers/views/outer-view.js",
-			"settings":
-			{
-				"buffer_size": 473,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "#outerView: {\n	height: '100%';\n}\n\n#tokensHolder: {\n	color: 'blue';\n}\n\n#mapHolder: {\n\n}\n\n#controlsHolder: {\n\n}",
-			"file": "containers/styles.less",
-			"file_size": 124,
-			"file_write_time": 131545203925716163,
-			"settings":
-			{
-				"buffer_size": 109,
+				"buffer_size": 2126,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 150.0,
+		"height": 173.0,
+		"last_filter": "Install",
 		"selected_items":
 		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
 			[
 				"Package control: in",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 609.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -157,11 +166,65 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/projects/map-tool",
+		"/C/projects/map-tool/react-files",
+		"/C/projects/map-tool/react-files/controllers",
+		"/C/projects/map-tool/react-files/styles",
+		"/C/projects/map-tool/react-files/views",
+		"/C/projects/map-tool/test-data"
+	],
 	"file_history":
 	[
+		"/C/projects/map-tool/react-files/controllers/controls.js",
+		"/C/projects/map-tool/react-files/views/map.js",
+		"/C/projects/map-tool/react-files/controllers/map.js",
+		"/C/projects/map-tool/react-files/controllers/outer.js",
+		"/C/projects/map-tool/react-files/views/outer.js",
+		"/C/projects/map-tool/react-files/controllers/scale-wrapper.js",
+		"/C/projects/map-tool/react-files/views/scale-wrapper.js",
+		"/C/projects/map-tool/react-files/styles/map.less",
+		"/C/projects/map-tool/react-files/styles/outerview.less",
+		"/C/projects/map-tool/react-files/styles/styles.less",
+		"/C/projects/map-tool/react-files/controllers/token-icon.js",
+		"/C/projects/map-tool/react-files/views/token-icon.js",
+		"/C/projects/map-tool/react-files/styles/tokens.less",
+		"/C/projects/map-tool/index.html",
+		"/C/projects/map-tool/react-files/styles/fonts.less",
+		"/C/projects/map-tool/react-files/styles/colours.less",
+		"/C/projects/map-tool/test-data/tokens.json",
+		"/C/projects/map-tool/react-files/views/controls.js",
+		"/C/projects/map-tool/webpack/webpack.dev.config.js",
+		"/C/projects/map-tool/package.json",
+		"/C/projects/map-tool/index.js",
+		"/C/projects/map-tool/react-files/views/token-group.js",
+		"/C/projects/map-tool/react-files/views/token-groups.js",
+		"/C/projects/map-tool/react-files/controllers/token-group.js",
+		"/C/projects/map-tool/react-files/controllers/tokens-holder.js",
+		"/C/projects/map-tool/react-files/controllers/token-groups.js",
+		"/C/projects/map-tool/react-files/views/tokens-holder.js",
+		"/C/projects/map-tool/react-files/controllers/tokens-groups.js",
+		"/C/projects/map-tool/react-files/views/tokens-groups.js",
+		"/C/projects/map-tool/react-files/controllers/tokens-sets.js",
+		"/C/projects/map-tool/node_modules/decompress-unzip/node_modules/through2/LICENSE.html",
+		"/C/projects/map-tool/react-files/App.js",
+		"/C/projects/map-tool/react-files/views/tokens.js",
+		"/C/projects/map-tool/react-files/controllers/tokens.js",
+		"/C/projects/map-tool/react-files/views/outer-view.js",
+		"/C/projects/map-tool/react-files/controllers/outer-view.js",
+		"/C/projects/map-tool/containers/App.js",
+		"/C/projects/map-tool/containers/styles/outerview.less",
+		"/C/projects/map-tool/containers/views/controls-holder.js",
+		"/C/projects/map-tool/containers/views/map-holder.js",
+		"/C/projects/map-tool/containers/views/tokens-holder.js",
+		"/C/projects/map-tool/containers/views/outer-view.js",
+		"/C/projects/map-tool/containers/styles/styles.less",
+		"/C/projects/map-tool/containers/styles/mixins/prefixer.less",
+		"/C/projects/map-tool/containers/styles/styles.css",
+		"/C/projects/map-tool/containers/styles.less",
 		"/C/projects/map-tool/map-tool.sublime-project",
 		"/C/projects/map-tool/map-tool.sublime-workspace",
-		"/C/projects/map-tool/containers/styles/styles.less",
 		"/C/projects/map-tool/containers/styles/styles.js",
 		"/C/Users/johnc/Desktop/sword practise pairs/index.htm",
 		"/C/Users/johnc/Desktop/sword practise pairs/_js/brute.js",
@@ -241,56 +304,11 @@
 		"/C/projects/dewarrene-site-v2/src/scripts/sync-down-from-master",
 		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/public/js/beforeCkeditor.js",
 		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/lib/helpers.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/joyride-2-1.less",
-		"/C/projects/dewarrene-site-v2/src/.gitignore",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.js",
-		"/C/projects/dewarrene-site-v2/src/public/css/typography/typography.less",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips-jquery-ui.min.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.min.js",
-		"/C/projects/dewarrene-site-v2/src/public/modules/apostrophe-images/js/editor-modal.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-assets/public/css/vendor/jquery-ui.less",
-		"/C/projects/dewarrene-site-v2/src/public/modules/apostrophe-assets/js/vendor/jquery-ui.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/jquery-ui.css",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-pieces/public/js/editor-modal.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/jquery-ui-1.11.4.custom/index.html",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/views/editorModal.html",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/public/js/editor.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/chooser.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/editor-modal.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/manager-modal.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/relationship-editor.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images/public/js/user.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/jquery-ui-slider-pips.min.css",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/apostrophe-assets/public/css/typography/typography.less",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widgetBase.html",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-pieces-widgets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widgetEditor.html",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-images-widgets/views/widget.html",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/.gitignore",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-widgets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-any-page-manager/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-admin-bar/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-assets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-attachments/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-browser-utils/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-caches/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-custom-pages/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-db/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-doc-type-manager/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-docs/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-express/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-files/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-files-widgets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-global/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-groups/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-html-widgets/index.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-i18n/index.js"
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/joyride-2-1.less"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -306,6 +324,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"favicon//apple",
 			"C:\\DeWarenne-drive\\DeWarenne\\",
 			"_adjustDetailWidth",
 			"timeline-detail",
@@ -347,7 +366,7 @@
 			"tilePairWrapperC",
 			" dunwichHorrorC",
 			"monsterTileC",
-			"			<img class=\"monsterTileC\"",
+			"\t\t\t<img class=\"monsterTileC\"",
 			"Back.png\" alt=\"\" />",
 			".png\"",
 			"\"C:\\Users\\johnc\\Desktop\\Arkham Horror Monster rip\\manual\\dunwich\\",
@@ -364,6 +383,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"favicon/apple",
 			"",
 			" ",
 			"",
@@ -378,8 +398,8 @@
 			"monsterTileC arkhamCoreC",
 			"monsterTileC dunwichHorrorC",
 			"monsterTileC kingInYellowC",
-			"		<img class=\"monsterTileC\"",
-			"Back.png\" alt=\"\" />\n	</div>\n	<div class=\"tilePairWrapperC\">",
+			"\t\t<img class=\"monsterTileC\"",
+			"Back.png\" alt=\"\" />\n\t</div>\n\t<div class=\"tilePairWrapperC\">",
 			".png\" alt=\"\" />",
 			"<img class=\"monsterTileC\" src=\"",
 			"Back.png\" alt=\"\" />\n</div>\n<div class=\"tilePairWrapperC\">",
@@ -399,194 +419,94 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "react-files/views/controls.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1382,
+						"buffer_size": 454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								413,
+								398
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 399.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "webpack/webpack.dev.config.js",
-					"settings":
-					{
-						"buffer_size": 769,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								515,
-								515
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 213,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								75,
-								75
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.js",
-					"settings":
-					{
-						"buffer_size": 168,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								168,
-								168
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "containers/App.js",
-					"settings":
-					{
-						"buffer_size": 237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								237,
-								237
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "containers/views/outer-view.js",
-					"settings":
-					{
-						"buffer_size": 473,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								246,
-								236
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "containers/styles.less",
+					"buffer": 1,
+					"file": "react-files/controllers/scale-wrapper.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 109,
+						"buffer_size": 259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								86,
-								86
+								204,
+								204
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "react-files/views/scale-wrapper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -594,11 +514,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 46.0
 	},
 	"layout":
 	{
@@ -623,18 +543,25 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.xdebug":
 	{
 		"height": 256.0
 	},
+	"pinned_build_system": "",
+	"project": "map-tool.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 55.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -643,15 +570,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 166.0,
-	"status_bar_visible": true
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
