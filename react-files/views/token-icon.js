@@ -16,14 +16,22 @@ export default class TokenIconView extends Component
 		},
 	*/
 	render() {
+
+		const { isDragging, isDraglayer } = this.props;
+
+		const _border = (isDraglayer ? '1px solid red' : '0px');
+
+		console.log(_border);
+
 		const _style = {
 			backgroundImage: "url(" + this.props['token-data'].filepath + ")",
-			backgroundPosition: this.props['token-data']['sprite-left'] + "px " + this.props['token-data']['sprite-top'] + "px"
+			backgroundPosition: this.props['token-data']['sprite-left'] + "px " + this.props['token-data']['sprite-top'] + "px",
+			border: _border
 		};
 
 		const _output = (
 			<div className="token-wrapper" style={_style}>
-				<span className="token-title">{this.props['token-data'].name}</span>
+				<span className="token-title">{this.props['token-data'].name} {isDragging && ' (and I am being dragged now)'}</span>
 			</div>
 		);
 		return _output;
