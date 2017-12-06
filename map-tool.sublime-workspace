@@ -92,30 +92,72 @@
 	"buffers":
 	[
 		{
-			"file": "react-files/views/controls.js",
+			"file": "react-files/controllers/token-icon.js",
 			"settings":
 			{
-				"buffer_size": 454,
+				"buffer_size": 43771,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "react-files/controllers/scale-wrapper.js",
+			"file": "react-files/views/token-icon.js",
 			"settings":
 			{
-				"buffer_size": 259,
+				"buffer_size": 959,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "react-files/views/scale-wrapper.js",
+			"file": "react-files/App.js",
 			"settings":
 			{
-				"buffer_size": 2126,
+				"buffer_size": 541,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/controllers/outer.js",
+			"settings":
+			{
+				"buffer_size": 763,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/views/outer.js",
+			"settings":
+			{
+				"buffer_size": 850,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/controllers/map.js",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/views/map.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/controllers/drag-layer.js",
+			"settings":
+			{
+				"buffer_size": 1569,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import React from 'react';"
 			}
 		}
 	],
@@ -171,30 +213,35 @@
 		"/C/projects/map-tool",
 		"/C/projects/map-tool/react-files",
 		"/C/projects/map-tool/react-files/controllers",
-		"/C/projects/map-tool/react-files/styles",
 		"/C/projects/map-tool/react-files/views",
 		"/C/projects/map-tool/test-data"
 	],
 	"file_history":
 	[
+		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Box.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Container.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/ItemTypes.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Dustbin.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/index.js",
+		"/C/projects/map-tool/react-files/controllers/token-icon.js",
+		"/C/projects/map-tool/react-files/App.js",
+		"/C/projects/map-tool/react-files/views/token-icon.js",
+		"/C/projects/map-tool/react-files/views/controls.js",
+		"/C/projects/map-tool/react-files/views/scale-wrapper.js",
+		"/C/projects/map-tool/react-files/controllers/scale-wrapper.js",
 		"/C/projects/map-tool/react-files/controllers/controls.js",
 		"/C/projects/map-tool/react-files/views/map.js",
 		"/C/projects/map-tool/react-files/controllers/map.js",
 		"/C/projects/map-tool/react-files/controllers/outer.js",
 		"/C/projects/map-tool/react-files/views/outer.js",
-		"/C/projects/map-tool/react-files/controllers/scale-wrapper.js",
-		"/C/projects/map-tool/react-files/views/scale-wrapper.js",
 		"/C/projects/map-tool/react-files/styles/map.less",
 		"/C/projects/map-tool/react-files/styles/outerview.less",
 		"/C/projects/map-tool/react-files/styles/styles.less",
-		"/C/projects/map-tool/react-files/controllers/token-icon.js",
-		"/C/projects/map-tool/react-files/views/token-icon.js",
 		"/C/projects/map-tool/react-files/styles/tokens.less",
 		"/C/projects/map-tool/index.html",
 		"/C/projects/map-tool/react-files/styles/fonts.less",
 		"/C/projects/map-tool/react-files/styles/colours.less",
 		"/C/projects/map-tool/test-data/tokens.json",
-		"/C/projects/map-tool/react-files/views/controls.js",
 		"/C/projects/map-tool/webpack/webpack.dev.config.js",
 		"/C/projects/map-tool/package.json",
 		"/C/projects/map-tool/index.js",
@@ -208,7 +255,6 @@
 		"/C/projects/map-tool/react-files/views/tokens-groups.js",
 		"/C/projects/map-tool/react-files/controllers/tokens-sets.js",
 		"/C/projects/map-tool/node_modules/decompress-unzip/node_modules/through2/LICENSE.html",
-		"/C/projects/map-tool/react-files/App.js",
 		"/C/projects/map-tool/react-files/views/tokens.js",
 		"/C/projects/map-tool/react-files/controllers/tokens.js",
 		"/C/projects/map-tool/react-files/views/outer-view.js",
@@ -299,12 +345,7 @@
 		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/help.less",
 		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/jqueryJoyride.js",
 		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pipsJqueryUI.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/jquery-ui-slider-pips.js",
-		"/C/projects/dewarrene-site-v2/src/scripts/sync-down-from-master",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/public/js/beforeCkeditor.js",
-		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-areas/lib/helpers.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/joyride-2-1.less"
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips.js"
 	],
 	"find":
 	{
@@ -419,24 +460,140 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "react-files/views/controls.js",
+					"file": "react-files/controllers/token-icon.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 43771,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								413,
-								398
+								43771,
+								43771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "react-files/views/token-icon.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "react-files/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "react-files/controllers/outer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "react-files/views/outer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
 							]
 						],
 						"settings":
@@ -452,20 +609,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "react-files/controllers/scale-wrapper.js",
+					"buffer": 5,
+					"file": "react-files/controllers/map.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 259,
+						"buffer_size": 316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								204,
-								204
+								0,
+								0
 							]
 						],
 						"settings":
@@ -476,37 +633,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "react-files/views/scale-wrapper.js",
+					"buffer": 6,
+					"file": "react-files/views/map.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2126,
+						"buffer_size": 399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								960,
-								960
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "react-files/controllers/drag-layer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import React from 'react';",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 240.0,
+						"translation.y": 456.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
