@@ -17,9 +17,7 @@ export default class OuterView extends Component
 
 		var _output = (
 			<div id='outerView'>
-				<span id='mapHolder'>
-					<MapController mapScale={this.props.mapScale} gridScale={this.props.gridScale}/>
-				</span>
+				<MapController mapScale={this.props.mapScale} gridScale={this.props.gridScale}/>
 				<span id='tokensHolder' className="floatingControlGroup">
 					<TokensHolderController/>
 				</span>
