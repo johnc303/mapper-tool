@@ -12,7 +12,7 @@ export default class OuterController extends Component
 		
 		this.state = {
 			mapScale : '1',
-			gridScale : '50'
+			gridScale : '100'
 		};
 	}
 
