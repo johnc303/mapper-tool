@@ -21,7 +21,7 @@ export default class TokenIconView extends Component
 
 		const _border = (isDraglayer ? '1px solid red' : '0px');
 
-		console.log(_border);
+		//console.log(_border);
 
 		const _style = {
 			backgroundImage: "url(" + this.props['token-data'].filepath + ")",
