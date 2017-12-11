@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"drop",
+				"droppedTokensChanged"
+			],
+			[
+				"dropp",
+				"droppedIcons"
+			],
+			[
+				"token-",
+				"token-data"
+			],
+			[
 				"te",
 				"text-align"
 			],
@@ -92,10 +104,46 @@
 	"buffers":
 	[
 		{
+			"file": "react-files/views/map.js",
+			"settings":
+			{
+				"buffer_size": 829,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "react-files/controllers/grid-tile.js",
+			"settings":
+			{
+				"buffer_size": 3378,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/react-dnd-html5-backend/lib/HTML5Backend.js",
+			"settings":
+			{
+				"buffer_size": 24174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "react-files/views/grid-tile.js",
+			"settings":
+			{
+				"buffer_size": 674,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "react-files/controllers/token-icon.js",
 			"settings":
 			{
-				"buffer_size": 43771,
+				"buffer_size": 43834,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -104,17 +152,7 @@
 			"file": "react-files/views/token-icon.js",
 			"settings":
 			{
-				"buffer_size": 959,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "react-files/App.js",
-			"settings":
-			{
-				"buffer_size": 541,
-				"encoding": "UTF-8",
+				"buffer_size": 961,
 				"line_ending": "Windows"
 			}
 		},
@@ -122,7 +160,7 @@
 			"file": "react-files/controllers/outer.js",
 			"settings":
 			{
-				"buffer_size": 763,
+				"buffer_size": 764,
 				"line_ending": "Windows"
 			}
 		},
@@ -130,34 +168,8 @@
 			"file": "react-files/views/outer.js",
 			"settings":
 			{
-				"buffer_size": 850,
+				"buffer_size": 811,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "react-files/controllers/map.js",
-			"settings":
-			{
-				"buffer_size": 316,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "react-files/views/map.js",
-			"settings":
-			{
-				"buffer_size": 399,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "react-files/controllers/drag-layer.js",
-			"settings":
-			{
-				"buffer_size": 1569,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "import React from 'react';"
 			}
 		}
 	],
@@ -218,24 +230,36 @@
 	],
 	"file_history":
 	[
+		"/C/projects/map-tool/react-files/views/token-group.js",
+		"/C/projects/map-tool/react-files/controllers/token-icon.js",
+		"/C/projects/map-tool/react-files/misc/constants.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/00 Chessboard/Tutorial App/Board.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/00 Chessboard/Tutorial App/index.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/00 Chessboard/Tutorial App/Game.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/00 Chessboard/Tutorial App/BoardSquare.js",
+		"/C/projects/map-tool/reference/react-dnd-master/examples/00 Chessboard/Tutorial App/Square.js",
+		"/C/projects/map-tool/react-files/views/token-icon.js",
+		"/C/projects/map-tool/react-files/views/controls.js",
+		"/C/projects/map-tool/react-files/controllers/scale-wrapper.js",
+		"/C/projects/map-tool/react-files/views/scale-wrapper.js",
+		"/C/projects/map-tool/package.json",
+		"/C/projects/map-tool/react-files/controllers/map.js",
+		"/C/projects/map-tool/react-files/controllers/outer.js",
+		"/C/projects/map-tool/react-files/views/map.js",
+		"/C/projects/map-tool/index.js",
+		"/C/projects/map-tool/react-files/styles/outerview.less",
+		"/C/projects/map-tool/react-files/styles/map.less",
+		"/C/projects/map-tool/react-files/views/outer.js",
+		"/C/projects/map-tool/react-files/react-measure-test.js",
+		"/C/projects/map-tool/react-files/App.js",
+		"/C/projects/map-tool/react-files/controllers/drag-layer.js",
+		"/C/projects/possession-rules-player/src/test-data/test-data1.js",
 		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Box.js",
 		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Container.js",
 		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/ItemTypes.js",
 		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/Dustbin.js",
 		"/C/projects/map-tool/reference/react-dnd-master/examples/01 Dustbin/Single Target/index.js",
-		"/C/projects/map-tool/react-files/controllers/token-icon.js",
-		"/C/projects/map-tool/react-files/App.js",
-		"/C/projects/map-tool/react-files/views/token-icon.js",
-		"/C/projects/map-tool/react-files/views/controls.js",
-		"/C/projects/map-tool/react-files/views/scale-wrapper.js",
-		"/C/projects/map-tool/react-files/controllers/scale-wrapper.js",
 		"/C/projects/map-tool/react-files/controllers/controls.js",
-		"/C/projects/map-tool/react-files/views/map.js",
-		"/C/projects/map-tool/react-files/controllers/map.js",
-		"/C/projects/map-tool/react-files/controllers/outer.js",
-		"/C/projects/map-tool/react-files/views/outer.js",
-		"/C/projects/map-tool/react-files/styles/map.less",
-		"/C/projects/map-tool/react-files/styles/outerview.less",
 		"/C/projects/map-tool/react-files/styles/styles.less",
 		"/C/projects/map-tool/react-files/styles/tokens.less",
 		"/C/projects/map-tool/index.html",
@@ -243,9 +267,6 @@
 		"/C/projects/map-tool/react-files/styles/colours.less",
 		"/C/projects/map-tool/test-data/tokens.json",
 		"/C/projects/map-tool/webpack/webpack.dev.config.js",
-		"/C/projects/map-tool/package.json",
-		"/C/projects/map-tool/index.js",
-		"/C/projects/map-tool/react-files/views/token-group.js",
 		"/C/projects/map-tool/react-files/views/token-groups.js",
 		"/C/projects/map-tool/react-files/controllers/token-group.js",
 		"/C/projects/map-tool/react-files/controllers/tokens-holder.js",
@@ -336,20 +357,11 @@
 		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-utils/lib/helpers.js",
 		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-module/index.js",
 		"/C/projects/dewarrene-site-v2/src/node_modules/apostrophe/lib/modules/apostrophe-widgets/public/js/editor.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/lib-reference/jquery-ui-1.11.4.custom/jquery-ui.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/lib-reference/jquery-ui-1.11.4.custom/jquery-ui.css",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/3rd-party/jquery-ui-slider-pips.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/views/widget.html",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/fotorama-images-widgets/views/widgetEditor.html",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/always.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/css/help.less",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/jqueryJoyride.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pipsJqueryUI.js",
-		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/js/pips.js"
+		"/C/projects/dewarrene-site-v2/src/lib/modules/timeline-widgets/public/lib-reference/jquery-ui-1.11.4.custom/jquery-ui.js"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 52.0
 	},
 	"find_in_files":
 	{
@@ -365,6 +377,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"removeEventListeners",
+			"handleTopDragStart",
+			"key",
 			"favicon//apple",
 			"C:\\DeWarenne-drive\\DeWarenne\\",
 			"_adjustDetailWidth",
@@ -460,197 +475,24 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "react-files/controllers/token-icon.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 43771,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								43771,
-								43771
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1317.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "react-files/views/token-icon.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 959,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								493,
-								493
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "react-files/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 541,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								541,
-								541
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "react-files/controllers/outer.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								763,
-								763
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "react-files/views/outer.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								609,
-								609
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "react-files/controllers/map.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "react-files/views/map.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 399,
+						"buffer_size": 829,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								206,
+								171
 							]
 						],
 						"settings":
@@ -666,34 +508,206 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "react-files/controllers/drag-layer.js",
+					"buffer": 1,
+					"file": "react-files/controllers/grid-tile.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1569,
+						"buffer_size": 3378,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								887,
-								887
+								2770,
+								2770
 							]
 						],
 						"settings":
 						{
-							"auto_name": "import React from 'react';",
+							"auto_name": "",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/react-dnd-html5-backend/lib/HTML5Backend.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3734,
+								3734
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "react-files/views/grid-tile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "react-files/controllers/token-icon.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42941,
+								42941
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 456.0,
+						"translation.y": 777.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "react-files/views/token-icon.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "react-files/controllers/outer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "react-files/views/outer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
