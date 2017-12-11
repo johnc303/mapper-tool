@@ -23,6 +23,8 @@
     "react-dnd-html5-backend": "^2.5.4",
     "react-dnd-touch-backend": "^0.3.17",
     "react-dom": "^16.0.0",
+    "react-measure": "^2.0.2",
+    "rc-slider": "^8.4.0",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
   },
@@ -42,7 +44,6 @@
     "image-webpack-loader": "^3.4.2",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
-    "rc-slider": "^8.4.0",
     "style-loader": "^0.19.0",
     "superagent": "^3.8.1",
     "url-loader": "^0.6.2"
