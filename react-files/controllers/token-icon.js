@@ -4,15 +4,13 @@ import { DragSource } from 'react-dnd';
 //import request from 'superagent';
 
 import TokenIconView from '../views/token-icon';
+import {DragTypes} from '../misc/constants';
 
-const Types = {
-  TOKEN: 'token'
-};
 
 const tokenDragSource = {
   beginDrag(props) {
     // Return the data describing the dragged item
-    const item = { id: props.key };
+    const item = { id: props['token-data'].name, propsData: props };
     return item;
   },
 
@@ -24,8 +22,8 @@ const tokenDragSource = {
     // When dropped on a compatible target, do something
     const item = monitor.getItem();
     const dropResult = monitor.getDropResult();
-    console.log("About to error?");
-    CardActions.moveCardToList(item.id, dropResult.listId);
+    console.log("Drag item dropped on a target!");
+    //CardActions.moveCardToList(item.id, dropResult.listId);
   }
 };
 
@@ -84,4 +82,4 @@ class TokenIcon extends Component
 	}
 }
 
-export default DragSource(Types.TOKEN, tokenDragSource, collect)(TokenIcon);
+export default DragSource(DragTypes.TOKEN, tokenDragSource, collect)(TokenIcon);
